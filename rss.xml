@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>超快激光微纳制造实验室</title>
+        <link>https://123justinchen.github.io/</link>
+        <description>袁艳萍课题组</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://123justinchen.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Effects of Process Parameters on the Corrosion Resistance and Biocompatibility of Ti6Al4V Parts Fabricated by Selective Laser Melting</title>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-3/</link>
+            <guid>https://123justinchen.github.io/posts/post-3/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Xiang S, Yuan Y, Zhang C, et al. Effects of Process Parameters on the Corrosion Resistance and Biocompatibility of Ti6Al4V Parts Fabricated by Selective Laser Melting[J]. ACS omega, 2022, 7(7): 5954-5961.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1021&#x2F;acsomega.1c06246&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.1021&#x2F;acsomega.1c06246&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;Excellent biocompatibility and corrosion resistance of implants are essential for Ti6Al4V parts fabricated by selective laser melting (SLM) for biomedical applications. To achieve better corrosion resistance and biocompatibility of Ti6Al4V parts, the effects of SLM processing parameters on the corrosion resistance and the biocompatibility of Ti6Al4V parts are investigated by changing the scanning speeds and laser powers. The detailed influence mechanism of processing parameters on the properties of Ti6Al4V parts is studied from two aspects, including microstructure and defects. It is found that the corrosion resistance and biocompatibility of Ti6Al4V parts can be adjusted by changing the scanning speed and the laser power due to the constituent phase and the number and size of defect holes of Ti6Al4V parts. Compared with the laser power, the scanning speed has a stronger influence on the performance of the part, which can be used as “coarse tuning” based on the performance requirements. At the scanning speed of 1100 mm&#x2F;s and the laser power of 280 W, Ti6Al4V parts with better corrosion resistance can be obtained. Ti6Al4V parts with better biocompatibility are fabricated at the scanning speed of 1200 mm&#x2F;s and the laser power of 200 W.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;pubs.acs.org&#x2F;cms&#x2F;10.1021&#x2F;acsomega.1c06246&#x2F;asset&#x2F;images&#x2F;medium&#x2F;ao1c06246_0011.gif&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+        <item>
+            <title>Micro&#x2F;Nanoarchitectonics of 3D Printed Scaffolds with Excellent Biocompatibility Prepared Using Femtosecond Laser Two-Photon Polymerization for Tissue Engineering Applications</title>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-2/</link>
+            <guid>https://123justinchen.github.io/posts/post-2/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Yuan Y, Chen L, Shi Z, et al. Micro&#x2F;Nanoarchitectonics of 3D Printed Scaffolds with Excellent Biocompatibility Prepared Using Femtosecond Laser Two-Photon Polymerization for Tissue Engineering Applications[J]. Nanomaterials, 2022, 12(3): 391.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;nano12030391&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;nano12030391&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;The fabrication of high-precision scaffolds with excellent biocompatibility for tissue engineering has become a research hotspot. Two-photon polymerization (TPP) can break the optical diffraction limit and is used to fabricate high-resolution three-dimensional (3D) microstructures. In this study, the biological properties, and machinability of photosensitive gelatin methacrylate (GelMA) hydrogel solutions are investigated, and the biocompatibility of 3D scaffolds using a photosensitive GelMA hydrogel solution fabricated by TPP is also evaluated. The biological properties of photosensitive GelMA hydrogel solutions are evaluated by analyzing their cytotoxicity, swelling ratio, and degradation ratio. The experimental results indicate that: (1) photosensitive GelMA hydrogel solutions with remarkable biological properties and processability are suitable for cell attachment. (2) a micro&#x2F;nano 3D printed scaffold with good biocompatibility is fabricated using a laser scanning speed of 150 μm&#x2F;s, laser power of 7.8 mW, layer distance of 150 nm and a photosensitive GelMA hydrogel solution with a concentration of 12% (w&#x2F;v). Micro&#x2F;nano additive manufacturing will have broad application prospects in the tissue engineering field.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;nanomaterials&#x2F;nanomaterials-12-00391&#x2F;article_deploy&#x2F;html&#x2F;images&#x2F;nanomaterials-12-00391-g004-550.jpg&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+        <item>
+            <title>Tunable Optical Response Based on Au@ GST Core–Shell Hetero-nanostructures</title>
+            <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-1/</link>
+            <guid>https://123justinchen.github.io/posts/post-1/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Li D, Han W, Yuan Y, et al. Tunable Optical Response Based on Au@ GST Core–Shell Hetero-nanostructures[J]. ACS Applied Nano Materials, 2021, 4(9): 9123-9131.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1021&#x2F;acsanm.1c01708&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.1021&#x2F;acsanm.1c01708&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;Active control over the optical response has been investigated extensively, which is highly required in next-generation photonic devices. Here, we report a core–shell nanostructure combined with the plasmonic nanostructure with an active phase change material, termed as Au@GST, where the individual Au nanoparticle is wrapped by isolated active Ge2Sb2Te5 (GST) tuning medium as the shell. We demonstrate the active control of optical response by the simultaneous control of size and crystallization degree of the phase change shell within each isolated core–shell nanostructure. The hetero-nanostructures are synthesized by direct sputtering of stoichiometric GST on Au nanoparticles with different sizes based on a seeding effect of the metal nanostructures. The tunable optical response is enabled by inducing the GST shell phase states between amorphous and crystalline phases through thermal annealing, accompanied by high optical contrast. We demonstrate the tunable optical response (from 570 to 630 nm) of the hetero-nanostructures by tailoring the GST shell’s optical property. The experimental results show that the optical response of the Au@GST core–shell hetero-nanostructures exhibits high sensitivity to the size of the nanoparticles (GST thickness and Au diameter). The simulation results are in good agreement with the experiments. This confirms the dominant role of the phase states on the optical modulation. Furthermore, this study provides a single-step and lithography-free 3D printing process to arrange the hybrid Au@GST core–shell nanostructures in a large area deliberately, giving additional flexibility to control over the architecture and geometry. Such Au@GST core–shell hetero-nanostructures have the potential for active control of nanophotonic devices, such as super-resolution imaging and programmable metasurfaces.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;pubs.acs.org&#x2F;cms&#x2F;10.1021&#x2F;acsanm.1c01708&#x2F;asset&#x2F;images&#x2F;medium&#x2F;an1c01708_0007.gif&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+        <item>
+            <title>Adjustment of Subwavelength Rippled Structures on Titanium by Two-Step Fabrication Using Femtosecond Laser Pulses</title>
+            <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-0/</link>
+            <guid>https://123justinchen.github.io/posts/post-0/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Yuan Y, Guo X, Shang Y, et al. Adjustment of Subwavelength Rippled Structures on Titanium by Two-Step Fabrication Using Femtosecond Laser Pulses[J]. Applied Sciences, 2021, 11(5): 2250.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;app11052250&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;app11052250&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;An effective approach is proposed to adjust the surface morphology induced by using a femtosecond laser, including the area and period of rippled structures. The effect of the processing steps and laser polarization on the surface morphology of rippled structures on a titanium surface was experimentally investigated in this study. A processing sequence was designed for two series of femtosecond laser pulses that irradiate a titanium surface, for example, N = 50(0°) + 50(90°). The experimental results show that the area and period of rippled structures can be simultaneously adjusted by following a two-step method. Due to the enhancement of energy absorption and SP-laser coupling of the initial rippled structures, large area surface structures with small periods are fabricated using two series of femtosecond laser pulses with the same polarization direction. By changing the polarization direction of the two series of femtosecond laser pulses, the recording, erasing, and rewriting of subwavelength ripples is achieved. During the rewriting process, material removal and the formation of new ripples simultaneously occur.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;applsci&#x2F;applsci-11-02250&#x2F;article_deploy&#x2F;html&#x2F;images&#x2F;applsci-11-02250-g001-550.jpg&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+    </channel>
+</rss>

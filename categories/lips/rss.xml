@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>超快激光微纳制造实验室 -  LIPS </title>
+        <link>https://123justinchen.github.io/</link>
+        <description>袁艳萍课题组</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://123justinchen.github.io/categories/lips/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Adjustment of Subwavelength Rippled Structures on Titanium by Two-Step Fabrication Using Femtosecond Laser Pulses</title>
+            <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-0/</link>
+            <guid>https://123justinchen.github.io/posts/post-0/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Yuan Y, Guo X, Shang Y, et al. Adjustment of Subwavelength Rippled Structures on Titanium by Two-Step Fabrication Using Femtosecond Laser Pulses[J]. Applied Sciences, 2021, 11(5): 2250.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;app11052250&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;app11052250&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;An effective approach is proposed to adjust the surface morphology induced by using a femtosecond laser, including the area and period of rippled structures. The effect of the processing steps and laser polarization on the surface morphology of rippled structures on a titanium surface was experimentally investigated in this study. A processing sequence was designed for two series of femtosecond laser pulses that irradiate a titanium surface, for example, N = 50(0°) + 50(90°). The experimental results show that the area and period of rippled structures can be simultaneously adjusted by following a two-step method. Due to the enhancement of energy absorption and SP-laser coupling of the initial rippled structures, large area surface structures with small periods are fabricated using two series of femtosecond laser pulses with the same polarization direction. By changing the polarization direction of the two series of femtosecond laser pulses, the recording, erasing, and rewriting of subwavelength ripples is achieved. During the rewriting process, material removal and the formation of new ripples simultaneously occur.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;applsci&#x2F;applsci-11-02250&#x2F;article_deploy&#x2F;html&#x2F;images&#x2F;applsci-11-02250-g001-550.jpg&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+    </channel>
+</rss>

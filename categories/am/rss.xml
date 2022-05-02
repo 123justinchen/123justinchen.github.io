@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>超快激光微纳制造实验室 -  AM </title>
+        <link>https://123justinchen.github.io/</link>
+        <description>袁艳萍课题组</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://123justinchen.github.io/categories/am/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Micro&#x2F;Nanoarchitectonics of 3D Printed Scaffolds with Excellent Biocompatibility Prepared Using Femtosecond Laser Two-Photon Polymerization for Tissue Engineering Applications</title>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+            <link>https://123justinchen.github.io/posts/post-2/</link>
+            <guid>https://123justinchen.github.io/posts/post-2/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;Yuan Y, Chen L, Shi Z, et al. Micro&#x2F;Nanoarchitectonics of 3D Printed Scaffolds with Excellent Biocompatibility Prepared Using Femtosecond Laser Two-Photon Polymerization for Tissue Engineering Applications[J]. Nanomaterials, 2022, 12(3): 391.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;nano12030391&quot;&gt;https:&#x2F;&#x2F;doi.org&#x2F;10.3390&#x2F;nano12030391&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;&#x2F;h1&gt;
+&lt;p&gt;The fabrication of high-precision scaffolds with excellent biocompatibility for tissue engineering has become a research hotspot. Two-photon polymerization (TPP) can break the optical diffraction limit and is used to fabricate high-resolution three-dimensional (3D) microstructures. In this study, the biological properties, and machinability of photosensitive gelatin methacrylate (GelMA) hydrogel solutions are investigated, and the biocompatibility of 3D scaffolds using a photosensitive GelMA hydrogel solution fabricated by TPP is also evaluated. The biological properties of photosensitive GelMA hydrogel solutions are evaluated by analyzing their cytotoxicity, swelling ratio, and degradation ratio. The experimental results indicate that: (1) photosensitive GelMA hydrogel solutions with remarkable biological properties and processability are suitable for cell attachment. (2) a micro&#x2F;nano 3D printed scaffold with good biocompatibility is fabricated using a laser scanning speed of 150 μm&#x2F;s, laser power of 7.8 mW, layer distance of 150 nm and a photosensitive GelMA hydrogel solution with a concentration of 12% (w&#x2F;v). Micro&#x2F;nano additive manufacturing will have broad application prospects in the tissue engineering field.&lt;&#x2F;p&gt;
+&lt;div align=&#x27;center&#x27;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;nanomaterials&#x2F;nanomaterials-12-00391&#x2F;article_deploy&#x2F;html&#x2F;images&#x2F;nanomaterials-12-00391-g004-550.jpg&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;</description>
+        </item>
+    </channel>
+</rss>
