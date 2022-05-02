@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://deepthought-theme.netlify.app"
+base_url = "https://123justinchen.github.io/"
 
 # The site title and description; used in feeds by default.
-title = "DeepThought"
-description = "A simple blog theme focused on writing powered by Bulma and Zola"
+title = "超快激光微纳制造实验室"
+description = "袁艳萍课题组"
 
 # The default language; used in feeds.
 default_language = "en"
@@ -168,11 +168,12 @@ galleria.enabled = true
 
 navbar_items = [
     { code = "en", nav_items = [
-        { url = "$BASE_URL/", name = "Home" },
-        { url = "$BASE_URL/posts", name = "Posts" },
-        { url = "$BASE_URL/docs", name = "Docs" },
-        { url = "$BASE_URL/tags", name = "Tags" },
-        { url = "$BASE_URL/categories", name = "Categories" },
+        { url = "$BASE_URL", name = "首页" },
+        { url = "$BASE_URL/teacher", name = "导师" },
+        { url = "$BASE_URL/posts", name = "文章" },
+        { url = "$BASE_URL/people", name = "团队" },
+#        { url = "$BASE_URL/tags", name = "Tags" },
+        { url = "$BASE_URL/categories", name = "方向" },
     ] },
 ]
 
@@ -184,21 +185,22 @@ safari_pinned_tab = "/icons/safari-pinned-tab.svg"
 webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
-name = "DeepThought"
-avatar = "images/avatar.png"
+name = "Yuan"
+avatar = "images/avatar.jpg"
+
 
 [extra.social]
-facebook = "RatanShreshtha"
-github = "RatanShreshtha"
-gitlab = "ratanshreshtha"
-keybase = "RatanShreshtha"
-linkedin = "ratanshreshtha"
-stackoverflow = "3728911"
-email = "deepthought@gmail.com"
-twitter = "RatanShreshtha"
-mastodon = "@RatanShreshtha"
+#facebook = "RatanShreshtha"
+github = "https://123justinchen.github.io/"
+#gitlab = "ratanshreshtha"
+#keybase = "RatanShreshtha"
+#linkedin = "ratanshreshtha"
+#stackoverflow = "3728911"
+email = "ypyuan@bjut.edu.cn"
+#twitter = "RatanShreshtha"
+#mastodon = "@RatanShreshtha"
 #orcid = ""
-#google_scholar = ""
+google_scholar = "https://scholar.google.com/"
 
 [extra.analytics]
 google = "UA-176984489-2"

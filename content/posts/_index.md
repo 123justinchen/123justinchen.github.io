@@ -1,6 +1,6 @@
 +++
-title = "Posts"
-description = "Blog posts accumulated over the time."
+title = "课题组发表论文"
+description = ""
 sort_by = "date"
-paginate_by = 5
+paginate_by = 6
 +++
